@@ -1,0 +1,31 @@
+***빈도수 추출 시 뜨는 오류***
+
+1. UnicodeDecodeError 오류
+
+	==> 댓글 텍스트 파일을 다른 이름으로 저장을 이용해서 UTF-8로 인코딩
+	 안될 시에 다른 유니코드로도 인코딩
+
+
+
+2. NameError: name 'f' is not defined
+
+	==> 명령프롬프트(관리자 x)에서 IPython 이용
+
+
+***크롤링 시 뜨는 오류***
+
+1. Error reading id **, exception
+
+	==> 토큰 넣을 때 주의 token=***%include
+
+
+
+2 d.keys<>:[u'data']와 d.keys():[u'error']
+
+	==> 토큰을 다시 받아서 코드에 넣는다. 안될 시 개인페이지이기 때문에 안되는 것
+
+
+
+3. 예전 데이터가 들어가 있는 경우
+	==> mining.sqlite 파일을 지우고 다시 크롤링
+
