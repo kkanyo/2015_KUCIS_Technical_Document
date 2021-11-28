@@ -8,7 +8,7 @@ import nltk
 ko = nltk.Text(tokens_ko, name = '음란1호')
 data = ko.vocab().items()
 import csv
-with open('words.csv', 'w', encoding='utf-8') as f:     -> 에러시에 인코딩제거
+with open('words.csv', 'w', encoding='utf-8') as f:
 	f.write('word,freq\n')
 	writer = csv.writer(f)
 	writer.writerows(data)
