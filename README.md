@@ -27,8 +27,6 @@ SNS의 수많은 음란게시물은 별도의 성인인증이 없어도 열람�
 
 ## 관련 링크
 
-상세 정보(Notion): https://flannel-tsunami-65a.notion.site/KUCIS-837f8dab4c2c4ccc8a99acb5ac2ac0e4
-
 기술 문서(Google Drive): https://drive.google.com/drive/folders/1dhR81uc6Wjz0u6rueiXqJFI75EGfKnmA?usp=sharing
 
 
